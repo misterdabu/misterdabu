@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @misterdabu
+- 👋 Hi, I’m Dilan.
 - 👀 I’m interested in ... Data Science / Analytics and Web Development
 - 🌱 I’m currently learning ... Machine Learning and Generative AI
 - 💞️ I’m looking to collaborate on ... Anything Data Analytics or Python related. 
